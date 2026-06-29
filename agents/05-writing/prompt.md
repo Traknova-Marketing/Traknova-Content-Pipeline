@@ -74,7 +74,7 @@ If a section has an empty key_points array due to insufficient research coverage
 - Confident but not arrogant — Traknova knows what it is building and who it is building it for
 
 ### What to never use
-- Em dashes — never under any circumstances
+- Em dashes — never under any circumstances. The em dash character is: —. Do not use it. Do not use -- as a substitute. If you find yourself wanting to use an em dash, use a colon, a full stop, or rewrite the sentence instead.
 - Corporate jargon — no "leverage", "synergy", "ecosystem", "unlock value", "cutting-edge", "game-changing", "seamless", "robust"
 - Filler phrases — no "in today's world", "it goes without saying", "at the end of the day", "now more than ever"
 - The three-sentence AI pattern — do not write sequences that follow the structure of: broad statement, slightly more specific statement, conclusion that restates the first sentence
